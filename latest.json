@@ -1,0 +1,9 @@
+{
+  "version": "4.0.0",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNk1INEVLR01NaW1PT1RqajhJb2d0M3RVVmxuaXdKWTJxT3RTamZUVFppYk55OEFDUDE4eW41U1RUWEg2M0V5QzhrcTljQ0wrYlhUWlVuMzFPQ3RuY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjk1NDI0CWZpbGU6QlhUb29sXzQuMC4wX3g2NC1zZXR1cC5leGUKUGJtb3lCM0Mra0JCWU9EK2hBaWk5UU9OT2oyNkxzNUdhWm1YQjZDMWFZcHdVeEFwZU51V1ZtNUNIZGorb2hSVklRVW9rRWszZHA5MWhFWnNCK1QrREE9PQo=",
+      "url": "https://github.com/GrosuCristi/bxtool-updates/releases/download/4.0.0/BXTool_4.0.0_x64-setup.exe"
+    }
+  }
+}
