@@ -1,10 +1,10 @@
 {
-    "version": "5.0.11",
-    "pub_date": "2026-06-04T17:44:02Z",
+    "version": "5.0.12",
+    "pub_date": "2026-06-05T18:27:13Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNk01MGRYSXhlYmxwcFdtcTh0ODhhSVQrdXRLZng3WVBSWjJ2MUltS1NzcWg0UTY5czN5YTFkZzJkaWhDeG45bjNYcDFqdzVKUjdsM0xWM0xHV3Jya3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTk1MjQ1CWZpbGU6QlhUb29sXzUuMC4xMV94NjQtc2V0dXAuZXhlCmdVOUxFQW81YUJzYkNKd0JodExwQXczVlJqNFR5MXF2U1BWb1E2WkllbkdZWGpnZXkraXBWanlSdmpzQUFxRUF6dFEydk1VZjhNd0VFcmVFNVZLdkF3PT0K",
-            "url": "https://github.com/GrosuCristi/bxtool-updates/releases/download/5.0.11/BXTool_5.0.11_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNkRpOWhSYUp5U25SdjhDeDlHaEdtdmhjNHgwbHphQTV1YmVPNndIakxXaS9pYkhTMG1FNDhicjE1b043YnM2RGFpck85U1NqeFJSbWpWOFk4QzU2aHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjg0MTc4CWZpbGU6QlhUb29sXzUuMC4xMl94NjQtc2V0dXAuZXhlCnc5UUR4TTNldGYwZXNqcU9HamthbCtSdm0yd1JFcGw4dTBNak85NWRjVFNiY0NvN2QxTG9lclJtWGw1MHlOQ2ExTVBSelRmUmIwd21ubVdrZDY4WkRRPT0K",
+            "url": "https://github.com/GrosuCristi/bxtool-updates/releases/download/5.0.12/BXTool_5.0.12_x64-setup.exe"
         }
     }
 }
